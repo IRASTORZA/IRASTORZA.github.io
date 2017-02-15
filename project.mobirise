@@ -1,0 +1,335 @@
+{
+  "settings": {
+    "currentPage": "paGE.HTML",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Oxygen",
+        "textFont": "Oxygen",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12",
+    "uniqCompNum": 18,
+    "versionPublish": "3.12",
+    "favicon": "@PROJECT_PATH@/assets/images/sin-ttulo-128x128.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "paGE.HTML": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/transformadores-2000x1500.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Nacional De Transformadores LM",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "24px",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/transformadores-1-2000x1500.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "NUESTRA EMPRESA",
+          "text": "<b><br>SOMOS UNA EMPRESA ESTABLECIDA EN LA CIUDAD DE IRAPUATO, GUANAJUATO, DESDE EL AÑO DE 1985, DEDICADOS A LA FABRICACION  DE TRANSFORMADORES, CONTAMOS CON UNA AMPLIA EXPERIENCIA EN EL SECTOR, OFRECIENDO SIEMPRE UNA EXCELENTE CALIDAD DE TRANSFORMADORES A UN COSTO COMPETITIVO.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1493-800x597.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1493.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1134-800x453.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1134.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170209-2000x1100-800x440.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170209-2000x1100.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-2",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "NUESTRAS MANUFACTURAS",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content6-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TRANSFORMADORES QUE OFRECEMOS:</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><br></b></span></p><p><b><span style=\"font-size: 1.07rem; line-height: 1.5;\">· TRANSFORMADORES TRIFÁSICO Y MONOFÁSICOS CON LA NORMA: K0000 Y CON CERTIFICACIÓN ANCE, PROTOCOLIZADOS (SIGLA 03) Y NORMA J (USO PARTICULAR).</span><br></b></p><p><b><br></b></p><p><b>· TRANSFORMADORES PEDESTALES.</b></p><p><b><br></b></p><p><b>· TRANSFORMADORES MONOFÁSICOS, TIPO CONVENCIONAL, Y AUTOPRTEGIDO EN ALTA Y BAJA TENSIÓN.</b></p><p><b><br></b></p><p><b>· TRANSFORMADORES REDUCTORES DE VOLTAJE EN ALTA TENSIÓN ( DE 33,000 A 13,200 ) EN BAJA TENSIÓN DE 440 V A 220/127V</b></p><p><b><br></b></p><p><b>· TRANSFORMADORES TIPO SECO..</b></p>",
+          "text2": "<p><b>TRANSFORMADORES DE MANUFACTURA ESPECIAL:</b></p><p><b><br></b></p><p><b>· TRANSFORMADORES EN DOBLE RELACIÓN EN ALTA TENSIÓN. (13200V A 23000V O 33000V, ETC.)</b></p><p><b><br></b></p><p><b>· TRANSFORMADORES CON QUINTA BOQUILLA PARA SALIDA A 127 VOLTS. (ILUMINACIÓN).</b></p><p><b><br></b></p><p><b>· TRANSFORMADORES CON 7 BOQUILLAS EN BAJA TENSIÓN, PARA OBTENER SIMULTÁNEAMENTE LOS TRES VOLTAJES 440V, 220V Y 127V.</b></p><p><b><br></b></p><p><b>· TRANSFORMADORES EN DOBLE RELACIÓN EN BAJA TENSIÓN (220/440 O ALGÚN OTRO VOLTAJE).</b></p><p><b><br></b></p><p><b>· TRANSFORMADORES CON GARGANTAS. PARA TRABAJAR EN PISO O JARDÍN CON INSTALACIÓN SUBTERRÁNEA.</b></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-7",
+          "_params": {
+            "googleMap": {
+              "address": "NACIONAL DE TRANSFORMADORES LM\n",
+              "placeId": "ChIJ8XIU681_LIQRXig1Qx1ata0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/transformadores-1-2000x1500.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/imagen1-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>DIRECCION</b></span></font><br><font color=\"#7c7c7c\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>BLVD. JUAN JOSE TORRES LANDA #222 SUR<br>BARRIO DE SAN CAYETANO, CP 36530.<br>IRAPUATO, GTO<br>",
+          "text2": "<strong>CONTANCTO</strong><br>TELEFONO: (462) 172 12 24<br><br>VENTAS.TRANSFORMADORESL &nbsp;M@GMAIL.COM<br>",
+          "text3": "<br><br><br>"
+        }
+      ]
+    }
+  }
+}
